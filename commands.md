@@ -11,4 +11,3 @@ git show <commit id> (to see code of perticular commit)
 git remote add origin <url of repo> (to create a link between local and remote repo)
 git push -u origin master (to push code from local repo to remote repo in master branch)
 git revert <commit id> ( This command will revert back done in given commit)
-This is  a gadbad command
