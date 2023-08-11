@@ -16,3 +16,4 @@ git checkout master
 git merge dev ( this will merge dev branch into checkedout master branch with dev branches commit history)
 git merge dev --squash (This will merge but will not add commit history of dev)
 git merge dev --squash HEAD~2 (This will merge but will only add 2 commits history of dev)
+firt command from dev
