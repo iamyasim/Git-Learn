@@ -11,7 +11,10 @@ git show <commit id> (to see code of perticular commit)
 git remote add origin <url of repo> (to create a link between local and remote repo)
 git push -u origin master (to push code from local repo to remote repo in master branch)
 <<<<<<< HEAD
+<<<<<<< HEAD
 git revert <commit id> ( This command will revert back done in given commit)
 This is not even a command.
 =======
 >>>>>>> parent of 67eaacf (Added revert command)
+=======
+>>>>>>> 4bf7ea4 (Revert "Added revert command")
