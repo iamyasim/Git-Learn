@@ -18,3 +18,4 @@ git merge dev --squash (This will merge but will not add commit history of dev)
 git merge dev --squash HEAD~2 (This will merge but will only add 2 commits history of dev)
 firt command from dev
 second
+third
