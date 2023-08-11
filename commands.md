@@ -19,3 +19,4 @@ git merge dev --squash HEAD~2 (This will merge but will only add 2 commits histo
 firt command from dev
 second
 third
+fourth
